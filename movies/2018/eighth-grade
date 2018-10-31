@@ -1,0 +1,20 @@
+{
+  "name": "Eighth Grade",
+  "year": 2018,
+  "runtime": 93,
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "release-date": "2018-08-03",
+  "director": "Bo Burnham",
+  "writer": [
+    "Bo Burnham"
+  ],
+  "actors": [
+    "Elsie Fisher",
+    "Josh Hamilton",
+    "Emily Robinson"
+  ],
+  "storyline": "An introverted teenage girl tries to survive the last week of her disastrous eighth grade year before leaving to start high school."
+}
